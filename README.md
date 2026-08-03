@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Ujjwal Jain I'm a Frontend Developer I'm passionate about both web design and web development , with a particular focus on front-end development in all of its aspects. This is where both my technical and creative skills can be used at their best.
+Full-Stack Engineer working across frontend, backend, DevSecOps, and security tooling, with a background in OSINT and threat intelligence. I've built and deployed production platforms spanning government intelligence systems, e-commerce infrastructure at scale, and AI-powered automation, owning delivery end to end: architecture, development, infra hardening, and incident response, with zero security incidents across production environments I've managed.
 
 
 ## 🌐 Socials:
