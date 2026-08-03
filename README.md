@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Engineer working across frontend, backend, DevSecOps, and security tooling, with a background in OSINT and threat intelligence. I've built and deployed production platforms spanning government intelligence systems, e-commerce infrastructure at scale, and AI-powered automation, owning delivery end to end: architecture, development, infra hardening, and incident response, with zero security incidents across production environments I've managed.
+Full-Stack Engineer working across frontend, backend, Ai, DevSecOps, and security tooling, with a background in OSINT and threat intelligence. I've built and deployed production platforms spanning government intelligence systems, e-commerce infrastructure at scale, and AI-powered automation, owning delivery end to end: architecture, development, infra hardening, and incident response, with zero security incidents across production environments I've managed.
 
 
 ## 🌐 Socials:
